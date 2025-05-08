@@ -1,29 +1,29 @@
 const drink = [
-    {
-        id: 1,
-        name: 'Organic juice',
-        price: '2.60'
-    },
-    {
-        id: 2,
-        name: 'Coffee',
-        price: '3.00'
-    },
-    {
-        id: 3,
-        name: 'Spirits',
-        price: '5.10'
-    },
-    {
+  {
+      id: 1,
+      name: 'Masala Chai',
+      price: '2.75' // CAD
+  },
+  {
+      id: 2,
+      name: 'Lassi (Sweet or Salted)',
+      price: '3.50' // CAD
+  },
+  {
+      id: 3,
+      name: 'Mango Lassi',
+      price: '4.00' // CAD
+  },
+  {
       id: 4,
-      name: 'Tea',
-      price: '2.20'
-    },
-    {
+      name: 'Nimbu Pani (Lemonade)',
+      price: '2.25' // CAD
+  },
+  {
       id: 5,
-      name: 'Water',
-      price: '1.49'
-    }
+      name: 'Jaljeera',
+      price: '2.50' // CAD
+  }
 ];
 
 export default drink;

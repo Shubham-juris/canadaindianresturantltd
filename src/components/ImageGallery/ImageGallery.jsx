@@ -61,9 +61,9 @@ export default function ImageGallery() {
         <SwiperSlide>
           <img className='border-0' src={ImageGallery9} alt='food' />
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <img className='border-0' src={ImageGallery10} alt='food' />
-        </SwiperSlide>
+        </SwiperSlide> */}
       </Swiper>
       <Swiper
         onSwiper={setThumbsSwiper}
@@ -101,9 +101,9 @@ export default function ImageGallery() {
         <SwiperSlide>
           <img className='border-0' src={ImageGallery9} alt='food' />
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <img className='border-0' src={ImageGallery10} alt='food' />
-        </SwiperSlide>
+        </SwiperSlide> */}
       </Swiper>
     </>
   );

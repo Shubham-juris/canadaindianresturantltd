@@ -1,21 +1,21 @@
 const lunch = [
     {
         id: 1,
-        name: 'Caesar salad',
-        description: 'chicken breast, romaine lettuce, croutons, parmesan',
-        price: '15.50'
+        name: 'Paneer Butter Masala with Naan',
+        description: 'cottage cheese cubes in rich tomato-butter gravy served with soft naan bread',
+        price: '13.99' 
     },
     {
         id: 2,
-        name: 'Spaghetti carbonara',
-        description: 'spaghetti, pancetta, garlic, eggs, parmesan, pepper',
-        price: '11.65'
+        name: 'Chole Bhature',
+        description: 'spiced chickpeas curry served with deep-fried fluffy bread',
+        price: '11.75' 
     },
     {
         id: 3,
-        name: 'Pizza',
-        description: 'chorizo, italian salami, tomatoes, mushrooms, olives',
-        price: '12.90'
+        name: 'Vegetable Biryani with Raita',
+        description: 'fragrant basmati rice cooked with vegetables and aromatic spices, served with yogurt dip',
+        price: '12.50' 
     }
 ];
 
