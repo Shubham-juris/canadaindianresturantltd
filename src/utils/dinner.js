@@ -1,8 +1,8 @@
 const dinner = [
     {
         id: 1,
-        name: 'Butter Chicken with Rice',
-        description: 'tandoori chicken in creamy tomato gravy served with basmati rice',
+        name: 'Butter Paneer with Rice',
+        description: 'tandoori Paneer in creamy tomato gravy served with basmati rice',
         price: '16.99' // CAD
     },
     {

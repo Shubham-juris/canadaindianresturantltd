@@ -6,7 +6,7 @@ import Person4Img from './images/person4-img.jpg';
 const reviews = [
     {
         id: 1,
-        description: 'This restaurant has the best food in London and I recommend it.',
+        description: 'This restaurant has the best food in Calgary and I recommend it.',
         img: [Person1Img],
         name: 'John Mike',
         initialMotion: '-300px'
