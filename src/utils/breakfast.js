@@ -1,22 +1,35 @@
 const breakfast = [
     {
         id: 1,
-        name: 'English breakfast',
-        description: 'smoked bacon, sausage, tomato, mushrooms, black pudding, baked beans, eggs',
-        price: '14.50'
+        name: 'Sarson da Saag & Makki di Roti',
+        description: 'traditional Punjabi dish made with mustard greens and maize flatbread, served with butter',
+        price: '7.99' // CAD
     },
     {
         id: 2,
-        name: 'Avocado toast',
-        description: 'poached egg, avocado, onion, tomatoes, bread',
-        price: '8.50'
+        name: 'Aloo Paratha',
+        description: 'stuffed potato flatbread served with curd and pickle',
+        price: '8.50' // CAD
     },
     {
         id: 3,
-        name: 'Burrito',
-        description: 'tortilla, egg, cheese, potatoes, pork meat',
-        price: '11.25'
-    }
+        name: 'Poha',
+        description: 'flattened rice cooked with turmeric, mustard seeds, peas, and onions',
+        price: '6.75' // CAD
+    },
+    {
+        id: 4,
+        name: 'Masala Dosa',
+        description: 'crispy rice crepe filled with spiced potato, served with sambar and chutney',
+        price: '9.99' // CAD
+    },
+    {
+        id: 5,
+        name: 'Upma',
+        description: 'semolina cooked with mustard seeds, curry leaves, vegetables and ghee',
+        price: '7.50' // CAD
+    },
+   
 ];
 
 export default breakfast;

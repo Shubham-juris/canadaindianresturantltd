@@ -1,21 +1,21 @@
 const dessert = [
     {
         id: 1,
-        name: 'Lemon cake',
-        description: 'flour, sugar, baking powder, lemon',
-        price: '9.80'
+        name: 'Gulab Jamun',
+        description: 'deep-fried milk solids soaked in rose-flavored sugar syrup',
+        price: '5.99' // CAD
     },
     {
         id: 2,
-        name: 'Cinnamon rolls',
-        description: 'flour, salt, sugar, cinnamon, yeast, sour cream, milk',
-        price: '11.75'
+        name: 'Rasmalai',
+        description: 'soft paneer balls soaked in sweet, saffron-infused milk',
+        price: '6.50' // CAD
     },
     {
         id: 3,
-        name: 'Vegan pancakes',
-        description: 'flour, sugar, baking powder, soya milk, blueberries',
-        price: '8.50'
+        name: 'Gajar Halwa',
+        description: 'grated carrots cooked in ghee with milk, sugar, and cardamom',
+        price: '6.75' // CAD
     }
 ];
 
