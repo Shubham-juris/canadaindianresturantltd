@@ -11,7 +11,7 @@ function Footer() {
 
   return (
     <footer className='bg-body-tertiary' id='footer'>
-        <p className='pt-3 m-0 text-center'>copyright &copy; Calgary veg, 2021-{newDate}</p>
+        <p className='pt-3 m-0 text-center'></p>
        
     </footer>
   )
